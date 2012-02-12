@@ -40,3 +40,6 @@ gem "guard-cucumber", ">= 0.6.1", :group => :development
 gem "heroku", :group => :development
 gem "omniauth", ">= 1.0.2"
 gem "omniauth-twitter"
+
+# add Zurb stylings
+gem "zurb-foundation"
