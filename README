@@ -1,20 +1,22 @@
-Colophone Rails
+# Colophone Rails
 ========================
 
-Some serverside stuff to support the design and wireframe work we did today.
+This is the Rails app that powers colophone.
 
-Stuff we need to add
+Right now, there's some server side stuff to support the design and wireframe work we did today.
+
+### Stuff we need to add
 
 * an index page
+* views to expose the correct form elements
+* controllers to direct these requests accordingly
 * models for users, questions and answers
-* THE WORKING APP
-
-TODO
-
-
-
+* styled pages!
+* AN ACTUAL WORKING APP
 
 
 ________________________
 
 License
+
+TBA (probably MIT)

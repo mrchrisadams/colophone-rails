@@ -67,9 +67,13 @@ db/*.sqlite3
 
 # Textmate project files
 /*.tmproj
+/.tm_properties
 
 # vim artifacts
 **.swp
 
 # keep OmniAuth service provider secrets out of the Git repo
 config/initializers/omniauth.rb
+
+# Keep other, similar credentials out of source code too
+config/colophone.yml
